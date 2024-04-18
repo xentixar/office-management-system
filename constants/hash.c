@@ -1,0 +1,3 @@
+#define MAX_SALT_LENGTH 10
+
+char salt[MAX_SALT_LENGTH] = "1012930193";
